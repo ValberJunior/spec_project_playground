@@ -1,0 +1,8 @@
+site_name: Spec Project Playground Template
+site_description: Spec Project Playground Template.
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
