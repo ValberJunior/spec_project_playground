@@ -1,1 +1,3 @@
-# Kong Install Template
+# Spec Project Playground
+
+A Backstage Template example.
