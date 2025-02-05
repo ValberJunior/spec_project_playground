@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: spec_project_playground
   title: Spec Project Playground
-  description: Kong/Kubernetes Artifacts generator via Spec
+  description: Kong/Kubernetes Artifacts generator via Spec with real paths*
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
